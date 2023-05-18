@@ -14,7 +14,4 @@
 - 💞️ I’m looking to collaborate on research projects, ideas related to computer Vision, Natural Language Proicessing, Robotics etc. 
 - 📫 How to reach me [GMAIL](omee0805@gmail.com) 
 
-<!---
-VIROBO-15/VIROBO-15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Omkar Thawakars's GitHub stats](https://github-readme-stats.vercel.app/api?username=OmkarThawakar&show_icons=true&theme=dark#gh-dark-mode-only)   ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=OmkarThawakar&layout=compact&hide_progress=true&theme=dark#gh-dark-mode-only)
